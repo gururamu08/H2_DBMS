@@ -19,21 +19,21 @@ RENAME: This is used to rename an object existing in the database.
 </div>
 
 ## Query:
-1) Create a table student with the following fieds rollno,name,age,address,phoneno.
+### 1) Create a table student with the following fieds rollno,name,age,address,phoneno.
 
 ### SQL QUERY: 
 
 
 ### OUTPUT:
 
-2) Change the above student table by adding another attribute department
+### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
 
 ### OUTPUT:
 
 
-3) Drop the student table
+### 3) Drop the student table
  
 ### SQL QUERY: 
 
@@ -41,7 +41,7 @@ RENAME: This is used to rename an object existing in the database.
 ### OUTPUT:
 
 
-4) Delete the student table using truncate keyword
+### 4) Delete the student table using truncate keyword
 
 ### SQL QUERY: 
 
@@ -50,7 +50,7 @@ RENAME: This is used to rename an object existing in the database.
 
 
 
-5) Rename the student table to mystudent
+### 5) Rename the student table to mystudent
 
 ### SQL QUERY: 
 
